@@ -1,6 +1,4 @@
-# Laravel Next.js Starter Kit
-
-Find the official documentation at [ln-starterkit.com](https://ln-starterkit.com)
+# Laravel Next.js Project
 
 ## What’s inside?
 
@@ -211,4 +209,4 @@ To set it up in your app, all you have to do is navigate to `/client/.env.local`
 
 ## Contact
 
-If you have feedback, questions or anything else, feel free to leave me a mail under niclastimmdev@gmail.com or hit me up on Twitter under @niclas_timm. Looking forward to hearing from you :).
+If you have feedback, questions or anything else, feel free to leave me a mail under martha.solomon.php@gmail.com or hit me up on Twitter under @niclas_timm. Looking forward to hearing from you :).
